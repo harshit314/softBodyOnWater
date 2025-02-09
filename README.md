@@ -2,11 +2,11 @@
 A 2D simulation of soft hydrophobic spheres falling in water. They have an optional driving force to keep them moving. 
 Here are some neat examples:
 1) Single hydrophobic sphere falling on water:
-https://github.com/user-attachments/assets/29f68ea8-020f-4d17-9054-09c33d842297
+![1Body](https://github.com/user-attachments/assets/8a5a9873-5da4-4b67-8323-fd33aade73d8)
 
 2) 5 hydrophobic spheres falling on water with excluded volumes:
-https://github.com/user-attachments/assets/e012275d-0f1c-452f-8c66-e6cfc1dcea56
+![5Body](https://github.com/user-attachments/assets/9f9e886b-773a-4d4e-a5cf-ba2b935b1c22)
+
 
 3) 5 hydrophobic spheres falling on water with excluded volumes, driven by a random force:
-https://github.com/user-attachments/assets/0f2e082c-4741-4c8a-aec4-dee7058ff4b2
-
+![driven](https://github.com/user-attachments/assets/80157c44-0fe8-49e8-bd03-007b6310786d)
